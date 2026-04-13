@@ -1,5 +1,5 @@
 # E-commerce-data-analysis
-In this project, I created key KPI cards for the business and generated reports by creating metrics according to various categories.
+This project was developed to identify low profit margins and optimize marketing strategies by segmenting highly engaged customers.
 
 ---
 
