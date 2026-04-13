@@ -1,2 +1,2 @@
 # E-commerce-data-analysis
-Ecommerce analysis project using Excel.
+In this project, I created key KPI cards for the business and generated reports by creating metrics according to various categories.
