@@ -26,7 +26,7 @@ This project was developed to identify low profit margins and optimize marketing
 
 ---
 
-Project Workflow & Methodology
+## Project Workflow & Methodology
 1. Data Acquisition & Initial Preparation (ETL)
 Data Ingestion: Raw data was imported from a CSV source into a structured Excel environment.
 
